@@ -6,6 +6,7 @@ troops_dic={"S":"Snake","W":"Water","G":"Gun"}
 
 Com_win=0
 User_win=0
+
 Tie=0
 Win_keyword=""
 
